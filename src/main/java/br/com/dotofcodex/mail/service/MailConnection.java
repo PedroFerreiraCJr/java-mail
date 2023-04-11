@@ -1,4 +1,4 @@
-package br.com.dotofcodex.mail;
+package br.com.dotofcodex.mail.service;
 
 import java.util.Properties;
 
